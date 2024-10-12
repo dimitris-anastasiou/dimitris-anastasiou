@@ -1,6 +1,4 @@
-# About Me
-
-Hi, I'm Dimitris 👋
+# Hi, I'm Dimitris 👋
 
 I'm a Mechanical Engineer specializing in Mechanical Desing, Robotics and Control with hands-on experience in AI, Machine Learning, and Automation. I have worked on diverse projects ranging from predictive modeling in energy systems to quadruped robotic control, and automation processes in real-world systems. I love designing systems that integrate both hardware and software to solve complex engineering challenges. Feel free to explore my GitHub – it’s filled with projects that might help you overcome common challenges or save time on algorithms you’d rather not reinvent. You’ll also find some unique use cases that I hope inspire you. Please, have a look around and enjoy!
 
@@ -25,8 +23,6 @@ I'm a Mechanical Engineer specializing in Mechanical Desing, Robotics and Contro
 
 ### [LLM Evaluation Agent](https://github.com/your-profile/llm-evaluation-agent)
 A general-purpose evaluation agent utilizing a Large Language Model (LLM) for assessing system performance.
-- **Technologies**: Python
-- **License**: MIT License
 
 ### [Behavioral Clone](https://github.com/your-profile/behavioral-clone)
 Navigation Agent (Behavioral Clone) for a 2D Maze Environment.
