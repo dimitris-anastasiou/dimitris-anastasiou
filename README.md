@@ -24,8 +24,8 @@ I'm a Mechanical Engineer specializing in Mechanical Design, Robotics and Contro
 ### [LLM Evaluation Agent](https://github.com/dimitris-anastasiou/llm-evaluation-agent)
 A general-purpose evaluation agent utilizing a Large Language Model (LLM) for assessing system performance.
 
-### [Behavioral Clone](https://github.com/dimitris-anastasiou/behavioral-clone)
-Navigation Agent (Behavioral Clone) for a 2D Maze Environment.
+### [Neural Processing Unit (NPU)](https://github.com/dimitris-anastasiou/npu)
+A Neural Processing Unit (NPU) designed to generate behavior trees and execute commands on a robot using an LLM.
 
 ### [Dynamics Engine for 2D Kinematic Chains](https://github.com/dimitris-anastasiou/dynamics-engine-2d-kinematic-chains)
 A dynamics engine (physics simulator) for a 2D kinematic chain with an arbitrary number of links.
@@ -39,8 +39,14 @@ Cartesian Control and Numerical Inverse Kinematics (IK) for robotic arms.
 ### [EKF Robot Localization](https://github.com/dimitris-anastasiou/ekf-robot-localization)
 An Extended Kalman Filter (EKF) for state estimation of a mobile robot's 2D position and orientation (x, y, theta).
 
-### [Neural Processing Unit (NPU)](https://github.com/dimitris-anastasiou/npu)
-A Neural Processing Unit (NPU) designed to generate behavior trees and execute commands on a robot using an LLM.
+### [Behavioral Clone](https://github.com/dimitris-anastasiou/behavioral-clone)
+Navigation Agent (Behavioral Clone) for a 2D Maze Environment.
+
+### [NN-MPC-FD](https://github.com/dimitris-anastasiou/nn-mpc-fd)
+Neural Network-Based Forward Dynamics and Model Predictive Control for an n-Link Robotic Arm.
+
+### [DQN-PPO](https://github.com/dimitris-anastasiou/dqn-ppo)
+Learning forward dynamics of a robotic arm using reinforcement learning algorithms.
 
 ### [Drug-Target Binding Affinity Prediction](https://github.com/dimitris-anastasiou/drug-target-binding-affinity-prediction)
 Predicting binding affinity between drugs and their target proteins using machine learning.
@@ -50,12 +56,6 @@ Analyzing e-commerce transaction data for customer segmentation and predicting f
 
 ### [Gene Expression Analysis](https://github.com/dimitris-anastasiou/gene-expression-analysis)
 Gene expression data analysis to study the effects of a BET inhibitor treatment on a pancreatic cell line.
-
-### [NN-MPC-FD](https://github.com/dimitris-anastasiou/nn-mpc-fd)
-Neural Network-Based Forward Dynamics and Model Predictive Control for an n-Link Robotic Arm.
-
-### [DQN-PPO](https://github.com/dimitris-anastasiou/dqn-ppo)
-Learning forward dynamics of a robotic arm using reinforcement learning algorithms.
 
 
 ## 📫 How to Reach Me
