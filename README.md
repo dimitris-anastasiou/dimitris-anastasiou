@@ -1,82 +1,27 @@
-# Hi, I'm Dimitris 👋
-
-I'm a Mechanical Engineer specializing in Mechanical Design, Robotics and Control with hands-on experience in AI, Machine Learning, and Automation. I have worked on diverse projects ranging from predictive modeling in energy systems to quadruped robotic control, and automation processes in real-world systems. I love designing systems that integrate both hardware and software to solve complex engineering challenges. Feel free to explore my GitHub – it’s filled with projects that might help you overcome common challenges or save time on algorithms you’d rather not reinvent. You’ll also find some unique use cases that I hope inspire you. Please, have a look around and enjoy!
-
-
-## 🛠️ Technologies & Tools
-
-### Technical
-- **CAD & Simulation**: Autodesk Inventor, Autodesk AutoCAD, SolidWorks, ANSYS, MATLAB & Simulink, Simscale, OpenSCAD, Blender, CNC Simulator, Meshmixer, Slicer, Coolpack
-
-### Programming Languages
-- **Languages**: Python, R, C/C++, Rust, Java, SQL, Fortran, Assembly, GNU Octave
-
-### Programming & Development
-- **Frameworks & Libraries**: SDKs, APIs, Git, GitHub, Bitbucket, Machine Learning, Deep Learning, Computer Vision, OpenCV, TensorFlow, PyTorch, Keras, CUDA, Large Language Models (LLMs), Blue Prism, RPA Supervisor
-
-### Computer & Hardware
-- **Platforms & Tools**: LINUX/UNIX, Docker, Arduino, Raspberry Pi, PLCs, RISC, FPGA, AWS Deepracer
-- **Robotics & Automation**: Robot Operating System (ROS), ROS2, Rviz, CHAMP, MoveIt, Gazebo
+# 💫 About Me:
+Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanical Design, Robotics and Control with hands-on experience in AI, Machine Learning, and Automation. I have worked on diverse projects ranging from predictive modeling in energy systems to quadruped robotic control, and automation processes in real-world systems. I love designing systems that integrate both hardware and software to solve complex engineering challenges. Feel free to explore my GitHub – it’s filled with projects that might help you overcome common challenges or save time on algorithms you’d rather not reinvent. You’ll also find some unique use cases that I hope inspire you. Please, have a look around and enjoy!
 
 
-## 💻 Projects
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anastasiou-dimitris/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@da-labs) 
 
-### [LLM Evaluation Agent](https://github.com/dimitris-anastasiou/llm-evaluation-agent)
-A general-purpose evaluation agent utilizing a Large Language Model (LLM) for assessing system performance.
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dimitris-anastasiou&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dimitris-anastasiou&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitris-anastasiou&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### [Neural Processing Unit (NPU)](https://github.com/dimitris-anastasiou/npu)
-A Neural Processing Unit (NPU) designed to generate behavior trees and execute commands on a robot using an LLM.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dimitris-anastasiou&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
-### [Dynamics Engine for 2D Kinematic Chains](https://github.com/dimitris-anastasiou/dynamics-engine-2d-kinematic-chains)
-A dynamics engine (physics simulator) for a 2D kinematic chain with an arbitrary number of links.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### [RRT Motion Planning](https://github.com/dimitris-anastasiou/rrt-motion-planning)
-Implementation of the Rapidly-Exploring Random Tree (RRT) algorithm for motion planning, controlling a UR5 robotic arm.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dimitris-anastasiou&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-### [Cartesian Control & IK](https://github.com/dimitris-anastasiou/cartesian-control-IK)
-Cartesian Control and Numerical Inverse Kinematics (IK) for robotic arms.
+---
+[![](https://visitcount.itsvg.in/api?id=dimitris-anastasiou&icon=0&color=12)](https://visitcount.itsvg.in)
 
-### [EKF Robot Localization](https://github.com/dimitris-anastasiou/ekf-robot-localization)
-An Extended Kalman Filter (EKF) for state estimation of a mobile robot's 2D position and orientation (x, y, theta).
-
-### [Behavioral Clone](https://github.com/dimitris-anastasiou/behavioral-clone)
-Navigation Agent (Behavioral Clone) for a 2D Maze Environment.
-
-### [NN-MPC-FD](https://github.com/dimitris-anastasiou/nn-mpc-fd)
-Neural Network-Based Forward Dynamics and Model Predictive Control for an n-Link Robotic Arm.
-
-### [DQN-PPO](https://github.com/dimitris-anastasiou/dqn-ppo)
-Learning forward dynamics of a robotic arm using reinforcement learning algorithms.
-
-### [Drug-Target Binding Affinity Prediction](https://github.com/dimitris-anastasiou/drug-target-binding-affinity-prediction)
-Predicting binding affinity between drugs and their target proteins using machine learning.
-
-### [E-commerce Sales Prediction](https://github.com/dimitris-anastasiou/ecommerce-sales-prediction)
-Analyzing e-commerce transaction data for customer segmentation and predicting future sales trends.
-
-### [Gene Expression Analysis](https://github.com/dimitris-anastasiou/gene-expression-analysis)
-Gene expression data analysis to study the effects of a BET inhibitor treatment on a pancreatic cell line.
-
-
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/anastasiou-dimitris/)
-- [Linktree](https://linktr.ee/dimitris.anastasiou)
-- [YouTube](https://www.youtube.com/@da-labs)
-
-
-
-
-<!--
-**dimitris-anastasiou/dimitris-anastasiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
