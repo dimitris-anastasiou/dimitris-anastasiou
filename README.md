@@ -5,6 +5,7 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 
 ## 🌐 Socials
 
+[![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=flat&logo=githubpages&logoColor=white)]([https://www.thedalabs.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiou-dimitris/) 
 [![Linktree](https://img.shields.io/badge/Linktree-%23CFE7E7.svg?style=flat&logo=linktree&logoColor=green)](https://linktr.ee/dimitris.anastasiou)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@da-labs) 
