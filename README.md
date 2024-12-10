@@ -1,6 +1,6 @@
 # 🙋‍♂️ About Me
 
-Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanical Design, Robotics and Control with hands-on experience in AI, Machine Learning, and Automation. I have worked on diverse projects ranging from predictive modeling in energy systems to quadruped robotic control, and automation processes in real-world and industrial environments. I love designing systems that integrate both hardware and software to solve complex engineering challenges. Feel free to explore my GitHub – it’s filled with projects that might help you overcome common challenges or save time on algorithms you’d rather not reinvent. You’ll also find some unique use cases that I hope inspire you. Please, have a look around and enjoy!
+Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanical Design, Robotics and Control with hands-on experience in AI/ML, engineering dynamics and intelligent control systems. I have worked on diverse projects ranging from predictive modeling in energy systems to quadruped robotic control, and automation processes in real-world and industrial environments. I love designing systems that integrate both hardware and software to solve complex engineering challenges. Feel free to explore my GitHub – it’s filled with projects that might help you overcome common challenges or save time on algorithms you’d rather not reinvent. You’ll also find some unique use cases that I hope inspire you. Please, have a look around and enjoy!
 
 
 ## 🌐 Socials
