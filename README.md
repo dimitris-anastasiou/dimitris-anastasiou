@@ -7,8 +7,8 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=flat&logo=githubpages&logoColor=white)]([https://www.thedalabs.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiou-dimitris/) 
-[![Linktree](https://img.shields.io/badge/Linktree-%23CFE7E7.svg?style=flat&logo=linktree&logoColor=green)](https://linktr.ee/dimitris.anastasiou)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@da-labs) 
+[![Linktree](https://img.shields.io/badge/Linktree-%23CFE7E7.svg?style=flat&logo=linktree&logoColor=green)](https://linktr.ee/dimitris.anastasiou)
 
 
 ## 💻 Tech Stack
@@ -19,21 +19,13 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23D22128.svg?style=flat&logo=solidworks&logoColor=white) 
 ![ANSYS](https://img.shields.io/badge/ANSYS-%23ffcc33.svg?style=flat&logo=ansys&logoColor=black) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7043.svg?style=flat&logo=mathworks&logoColor=white) 
-![Simscale](https://img.shields.io/badge/SimScale-%230077B5.svg?style=flat&logo=simscale&logoColor=white) 
-![OpenSCAD](https://img.shields.io/badge/OpenSCAD-%23FFD700.svg?style=flat&logo=openscad&logoColor=black) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 
-![CNC Simulator](https://img.shields.io/badge/CNC%20Simulator-%23D00000.svg?style=flat) 
-![Meshmixer](https://img.shields.io/badge/Meshmixer-%23F5792A.svg?style=flat) 
-![Slicer](https://img.shields.io/badge/Slicer-%23FFFFFF.svg?style=flat) 
-![Coolpack](https://img.shields.io/badge/Coolpack-%23006C9E.svg?style=flat&logoColor=white)
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-276DC3?style=flat&logo=r&logoColor=white) 
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Rust](https://img.shields.io/badge/rust-000000.svg?style=flat&logo=rust&logoColor=white) 
-![Java](https://img.shields.io/badge/java-007396.svg?style=flat&logo=java&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white) 
 ![Fortran](https://img.shields.io/badge/Fortran-734F96.svg?style=flat&logo=fortran&logoColor=white) 
 ![Assembly](https://img.shields.io/badge/Assembly-007396.svg?style=flat) 
@@ -43,14 +35,11 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=flat&logo=bitbucket&logoColor=white) 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFC107.svg?style=flat) 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000.svg?style=flat) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=opencv&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=flat&logo=keras&logoColor=white) 
-![CUDA](https://img.shields.io/badge/CUDA-76B900.svg?style=flat&logo=nvidia&logoColor=white) 
-![LLMs](https://img.shields.io/badge/LLMs-FF5733.svg?style=flat&logo=ai&logoColor=white) 
+![RAG](https://img.shields.io/badge/CUDA-76B900.svg?style=flat&logo=nvidia&logoColor=white) 
 ![Blue Prism](https://img.shields.io/badge/Blue%20Prism-0082C9.svg?style=flat&logo=blue-prism&logoColor=white) 
 ![RPA Supervisor](https://img.shields.io/badge/RPA%20Supervisor-000000.svg?style=flat&logo=rp-assistant&logoColor=white)
 
@@ -60,8 +49,6 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat&logo=raspberry-pi&logoColor=white) 
 ![PLC](https://img.shields.io/badge/PLC-FF9900.svg?style=flat&logo=siemens&logoColor=white) 
-![RISC](https://img.shields.io/badge/RISC-FFD700.svg?style=flat) 
-![FPGA](https://img.shields.io/badge/FPGA-0098DA.svg?style=flat) 
 ![AWS Deepracer](https://img.shields.io/badge/AWS%20Deepracer-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 ### Robotics & Automation:
