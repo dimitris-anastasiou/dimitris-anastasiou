@@ -39,7 +39,7 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=flat&logo=keras&logoColor=white) 
-![RAG](https://img.shields.io/badge/CUDA-76B900.svg?style=flat&logo=nvidia&logoColor=white) 
+![RAG](https://img.shields.io/badge/RAG-76B900.svg?style=flat&logo=readthedocs&logoColor=white)
 ![Blue Prism](https://img.shields.io/badge/Blue%20Prism-0082C9.svg?style=flat&logo=blue-prism&logoColor=white) 
 ![RPA Supervisor](https://img.shields.io/badge/RPA%20Supervisor-000000.svg?style=flat&logo=rp-assistant&logoColor=white)
 
