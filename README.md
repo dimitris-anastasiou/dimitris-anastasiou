@@ -46,6 +46,7 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 ### Platforms & Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat&logo=raspberry-pi&logoColor=white) 
 ![PLC](https://img.shields.io/badge/PLC-FF9900.svg?style=flat&logo=siemens&logoColor=white) 
