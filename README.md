@@ -102,4 +102,4 @@ Cartesian Control and Numerical Inverse Kinematics (IK) for robotic arms.
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=dimitris-anastasiou&icon=0&color=12)](https://visitcount.itsvg.in)
+[![i](https://visitcount.itsvg.in/api?id=dimitris-anastasiou&icon=0&color=12)](https://visitcount.itsvg.in)
