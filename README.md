@@ -34,7 +34,7 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 ### Frameworks & Libraries:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=flat&logo=bitbucket&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=flat&logo=gitlab&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=opencv&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white) 
@@ -59,6 +59,7 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 ![CHAMP](https://img.shields.io/badge/CHAMP-000000.svg?style=flat) 
 ![MoveIt](https://img.shields.io/badge/MoveIt-793392.svg?style=flat) 
 ![Gazebo](https://img.shields.io/badge/Gazebo-8D85FF.svg?style=flat)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-FF6600.svg?style=flat&logo=nvidia&logoColor=white)
 
 ---
 
