@@ -60,7 +60,8 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 ![MoveIt](https://img.shields.io/badge/MoveIt-793392.svg?style=flat) 
 ![Gazebo](https://img.shields.io/badge/Gazebo-8D85FF.svg?style=flat)
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900.svg?style=flat&logo=nvidia&logoColor=white)
-
+![ArduPilot](https://img.shields.io/badge/ArduPilot-000000.svg?style=flat&logo=drone&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-005F87.svg?style=flat&logo=px4&logoColor=white)
 ---
 
 
