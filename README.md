@@ -7,6 +7,7 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=flat&logo=githubpages&logoColor=white)](https://www.thedalabs.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiou-dimitris/) 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nm47wiAAAAAJ&hl=en&authuser=2)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@da-labs) 
 [![Linktree](https://img.shields.io/badge/Linktree-%23CFE7E7.svg?style=flat&logo=linktree&logoColor=green)](https://linktr.ee/dimitris.anastasiou)
 
