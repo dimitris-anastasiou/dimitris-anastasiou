@@ -5,10 +5,8 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 
 ## 🌐 Socials
 
-[![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=flat&logo=githubpages&logoColor=white)](https://www.thedalabs.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiou-dimitris/) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nm47wiAAAAAJ&hl=en&authuser=2)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@da-labs) 
 [![Linktree](https://img.shields.io/badge/Linktree-%23CFE7E7.svg?style=flat&logo=linktree&logoColor=green)](https://linktr.ee/dimitris.anastasiou)
 
 
@@ -18,6 +16,7 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-%23ffffff.svg?style=flat&logo=autodesk&logoColor=0696D7) 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E40029.svg?style=flat&logo=autodesk&logoColor=white) 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23D22128.svg?style=flat&logo=solidworks&logoColor=white) 
+![Onshape](https://img.shields.io/badge/Onshape-%23000000.svg?style=flat&logo=onshape&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-%23ffcc33.svg?style=flat&logo=ansys&logoColor=black) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7043.svg?style=flat&logo=mathworks&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 
