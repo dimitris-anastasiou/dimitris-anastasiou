@@ -16,7 +16,7 @@ Hi, I'm Dimitris 👋<br><br>I'm a Mechanical Engineer specializing in Mechanica
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-%23ffffff.svg?style=flat&logo=autodesk&logoColor=0696D7) 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E40029.svg?style=flat&logo=autodesk&logoColor=white) 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23D22128.svg?style=flat&logo=solidworks&logoColor=white) 
-![Onshape](https://img.shields.io/badge/Onshape-%231B5FAA.svg?style=flat&logo=onshape&logoColor=white)
+![Onshape](https://img.shields.io/badge/Onshape-%236DB33F.svg?style=flat&logo=onshape&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-%23ffcc33.svg?style=flat&logo=ansys&logoColor=black) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7043.svg?style=flat&logo=mathworks&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 
