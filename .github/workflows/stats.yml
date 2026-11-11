@@ -29,13 +29,13 @@ jobs:
           token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
 
-      - name: Generate public language statistics
+      - name: Generate language statistics
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=dimitris-anastasiou&theme=transparent&hide_border=true&layout=compact
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
 
       - name: Save updated cards

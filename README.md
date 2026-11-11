@@ -11,5 +11,5 @@ Here you'll find projects exploring motion planning, control, simulation and mac
 
 <p>
   <img height="165" src="./profile/stats.svg" alt="Dimitris's GitHub statistics" />
-  <img height="165" src="./profile/top-langs.svg" alt="Most used languages in public repositories" />
+  <img height="165" src="./profile/top-langs.svg" alt="Most used languages" />
 </p>
