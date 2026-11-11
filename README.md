@@ -10,6 +10,6 @@ Here you'll find projects exploring motion planning, control, simulation and mac
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimitris-anastasiou&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="Dimitris's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitris-anastasiou&theme=transparent&hide_border=true&layout=compact" alt="Most used languages in public repositories" />
+  <img height="165" src="./profile/stats.svg" alt="Dimitris's GitHub statistics" />
+  <img height="165" src="./profile/top-langs.svg" alt="Most used languages in public repositories" />
 </p>
