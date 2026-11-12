@@ -6,10 +6,9 @@ I'm a Mechanical Engineer specializing in mechanical design, robotics and contro
 
 Here you'll find projects exploring motion planning, control, simulation and machine learning. Some may help you tackle a familiar problem or save time on an algorithm you'd rather not reinvent. Others explore ideas and use cases that I hope will inspire you to build something of your own. Feel free to look around, explore the code and make use of whatever you find!
 
-
 ## 📊 GitHub Stats
 
-<p>
-  <img height="165" src="./profile/stats.svg" alt="Dimitris's GitHub statistics" />
-  <img height="165" src="./profile/top-langs.svg" alt="Most used languages" />
-</p>
+![](https://github.com/dimitris-anastasiou/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/dimitris-anastasiou/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/dimitris-anastasiou/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/dimitris-anastasiou/github-stats/blob/generated/languages.svg#gh-light-mode-only)
